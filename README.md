@@ -1,2 +1,2 @@
-# Estupido Simulador de probabilidades de combinacoes de loteria
- Esse projeto está sendo criado baseado em probabilidades da engenharia da matemática e lógica
+# Estupido Simulador de Probabilidades de Combinacoes de LoteriaS
+ Esse projeto está sendo criado baseado em probabilidades da engenharia da matemática e lógica.
