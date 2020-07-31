@@ -8,14 +8,14 @@ Simulador 1 basico de números aleatorios para loteria.
 
 Simulador 2
 
- mport random
+ import random
 lista1 = range (1, 60)
-lista0 = range (1, 60)
-lisata1 = range (1, 60)
-lisata2 = range (1, 60)
-lisata3 = range (1, 60)
-lisata4 = range (1, 60)
-escolha = random.shuffle(random.choice(lista, lista0, lista1, lista2, lista3, lista4)
+lista2 = range (1, 60)
+lista3 = range (1, 60)
+lista4 = range (1, 60)
+lista5 = range (1, 60)
+lista6 = range (1, 60)
+escolha = random.shuffle(random.choice(lista1, lista2, lista3, lista4, lista5, lista6)
 print('Simulação concluida!')
 print('escolha')
 
