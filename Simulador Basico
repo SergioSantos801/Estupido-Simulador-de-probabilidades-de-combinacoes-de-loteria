@@ -1,6 +1,6 @@
  mport random
-lisata = range (1, 60)
-lista0 = range (1, 60)
+lista1 = range (1, 60)
+lista = range (1, 60)
 lisata1 = range (1, 60)
 lisata2 = range (1, 60)
 lisata3 = range (1, 60)
