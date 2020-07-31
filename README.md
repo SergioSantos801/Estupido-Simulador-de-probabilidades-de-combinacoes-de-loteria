@@ -9,7 +9,7 @@ Simulador 1 basico de números aleatorios para loteria.
 Simulador 2
 
  mport random
-lisata = range (1, 60)
+lista1 = range (1, 60)
 lista0 = range (1, 60)
 lisata1 = range (1, 60)
 lisata2 = range (1, 60)
