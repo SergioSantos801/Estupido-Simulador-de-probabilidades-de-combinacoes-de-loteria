@@ -1,12 +1,8 @@
-# Estupido Simulador de Probabilidades de Combinacoes de LoteriaS
- Esse projeto está sendo criado baseado em probabilidades da engenharia da matemática e lógica.
+ Simulador de Probabilidades de Combinacoes de Loteria
+ *Esse projeto está sendo criado baseado em probabilidades da engenharia da matemática e lógica.*
 
 
-Simulador 1 basico de números aleatorios para loteria.
-
-
-
-Simulador 2
+## 1 Simulador basico 
 
  import random
 lista1 = range (1, 60)
@@ -69,13 +65,13 @@ Em analise de números mais sorteados,combinações com eles, seriam 18 acertos 
 
  Nesses fatores a porcentagem é de 33,3% a 40%. A soma do 1º e 2º fatores de probabilidade, 90% estatisticamente e 10% de sorte estatisticamente
 
-                    Se tem Estatistica matemática da para programar!!! 
+     **Se tem Estatistica matemática da para programar!!!**
 
-                                  Sintaxe do Algoritimo
+                ##Sintaxe do Algoritimo
 
 Criar um programa onde o usuario escolhe quantos números que ele quer solicitar para a aposta, que de a ele a possibilidade de selecionar quantos pares e quantos impares, que de possibilidade de  selecionar a quantidade de apostas nos laterais e nos centrais, que divida os 60 números em quatro e de a possibilidade de escolher entre eles e a quantidade de apostas nos lados direito e esquerdo e no superior e inferior que não escolha mais que 2 números sequênciais, que não repita números, que ele tenha a possibilidade de selecionar quantidade de números em cada quadrante, que ele possa seleconar os numeros mais sorteados e os menos sorteados para acrescentar ou eliminar de sua combinação e não repetir mais que 3 finais iguais nas dezenas
 
-()Continua...
+(Continua...)
 
 
 
