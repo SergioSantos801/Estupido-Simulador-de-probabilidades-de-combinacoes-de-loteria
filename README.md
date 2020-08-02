@@ -1,10 +1,8 @@
  # Simulador de Probabilidades de Combinacoes de Loteria
  *Esse projeto está sendo criado baseado em probabilidades da engenharia da matemática e lógica.*
+##1 Simulador basico 
 
-
-## ---1 Simulador basico 
-
- import random
+import random
 lista1 = range (1, 60)
 lista2 = range (1, 60)
 lista3 = range (1, 60)
@@ -28,6 +26,14 @@ print('escolha')
 
 12  números 54.182, quadra 90.
 
+
+
+  Números | Sena | Quina | Quadra
+  ---|---|---|---
+  6| 50.063.860 milhões | 2.154.518 milhões | 2.332 milhõe
+  7| 1.151.980 milhões | 44.981 milhões | 1.038 milhões
+  8| 
+
 --Precisa contar 100% com a sorte, porem estatísticamente a sorte pode ser manipulada aumentando essa probabilidade por meio da Engenharia da matemática, estudos de probabilidades e lógicas provaveis.--
 
 
@@ -40,14 +46,11 @@ print('escolha')
  * Estatisticamente os números laterais que são 28 números de 1 ao 10 de 10 ao 60 de 1 ao 51 e de 51 ao 30 são sorteados 2 e os centrais 32 e são sorteados 4, por lógica de proporções.
 
 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10
----|---|---|---|---|---|---|---|---|---
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |30
 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40
-41 |42 | 43 | 44 | 45 | 46 | 47 |48 | 49 | 50
-51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 |60
-
-
+41 | 42 | 43 | 44 | 45 | 46 | 47 |48 | 49 | 50
+51 | 52| 53 | 54 | 55 | 56 | 57 | 58 | 59 |60
 
  * Uma aposta em todos os números pares ou em todos os impares probabilidade de de isso acontecer é de 1% segundo a matemática em estudo da probabilidade de 1453 apostas da mega-sena em teste x 6 = 8.718 números sorteados 4343 Números pares probabilidade de (49,8%) e 4.375 impares probabilidade de (50,2%) .
 
@@ -59,10 +62,11 @@ print('escolha')
 
 * Dividinso o cartão de apostas em 4 partes iguais quadrantes de 1 – 25 e 26 – 30 e 31- 35 e 36 – 60 quadrante sentido horário dos 8.718 números sorteados
 
-24,8% 1º quadrante
-24,8% 2º quadrante
-25,8% 3º quadrante
-24,6% 4º quadrante
+   1º Quadrante | 24,8%
+   ---|---|
+   2º Quandrante | 24,8%
+   3º Quadrante | 25,8%
+   4º Quadrante | 24,6%
 
 * Com um percentual muito semelhante uma aposta com 6 números tem probabiliadade de 1 número em cada quadrante sendo os outros 2 aleatório entre os quadrantes, em uma aposta de 8 números 2 em cada quadrante sendo 4 pares e 4 impares a probabilidade de acerto seria maior em teoria. Quanto mais números nessas estatisticas mais probabilidade de acerto.
 
