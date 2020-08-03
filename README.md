@@ -5,7 +5,7 @@
                                                             
                                                             
  ``import randl
- ista1 = range (1, 60)
+ista1 = range (1, 60)
 ```lista2 = range (1, 60)
 lista3 = range (1, 60)
 lista4 = range (1, 60)
