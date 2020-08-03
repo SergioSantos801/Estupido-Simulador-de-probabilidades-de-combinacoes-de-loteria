@@ -29,12 +29,17 @@ print('escolha')
 
 
 
-  Números | Sena | Quina | Quadra
-  ---|---|---|---
-  6| 50.063.860 milhões | 2.154.518 milhões | 2.332 milhõe
-  7| 1.151.980 milhões | 44.981 milhões | 1.038 milhões
-  8| 
-
+  Dezenas | Sena | Quina | Quadra
+  ---|---|---|---|
+  6 | 50.063.860 | 2.154.518 | 2.332 
+  7 | 7.151.980 | 44.981 | 1.038 
+  8 | 1.787.998 | 17.192 | 519
+  10 | 238.399 | 3.973 | 195
+  ---|---|---|
+  12 | 54.182 | 1.317 | 90 |
+  
+  Terminou tabela
+  
 --Precisa contar 100% com a sorte, porem estatísticamente a sorte pode ser manipulada aumentando essa probabilidade por meio da Engenharia da matemática, estudos de probabilidades e lógicas provaveis.--
 
 
