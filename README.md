@@ -4,16 +4,20 @@
                                                             ##1 Simulador basico 
                                                             
                                                             
- ``import randl
-ista1 = range (1, 60)
-```lista2 = range (1, 60)
-lista3 = range (1, 60)
-lista4 = range (1, 60)
-lista5 = range (1, 60)
-lista6 = range (1, 60)
-escolha = random.shuffle(random.choice(lista1, lista2, lista3, lista4, lista5, lista6)
-print('Simulação concluida!')
-print('escolha')```
+                                                            
+                                                            
+                                                            
+                                                            
+```import random
+Lista1 = range(01, 60) 
+Lista2 = range(01, 60)
+Lista3 = range(01, 60) 
+Lista4 = range(01, 60) 
+Lista5 = range(01, 60) 
+Lista6 = range(01, 60) 
+Escolha = random.shuffle(random.choice(lista1, lista2, lista3, lista4, lista5, lista6)
+Print(‘A Simulação concluída é’)
+Print(escolha)```
 
 Em uma combinação de aposta aleatório com 6 números entre 1 a 60, as chances de acertos são de: 
      50.063.860 milhões, 2.154.518 milhões para a quina e 2.332 milhões para a quadra;
