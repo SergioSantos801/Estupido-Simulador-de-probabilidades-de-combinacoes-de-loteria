@@ -1,7 +1,11 @@
                                              #Simulador de Probabilidades de Combinacoes de Loteria
                      *Esse projeto está sendo criado baseado em probabilidades da engenharia da matemática e lógica.*
 
-                                                            ##1 Simulador basico  ``import randlista1 = range (1, 60)
+                                                            ##1 Simulador basico 
+                                                            
+                                                            
+ ``import randl
+ ista1 = range (1, 60)
 ```lista2 = range (1, 60)
 lista3 = range (1, 60)
 lista4 = range (1, 60)
