@@ -1,20 +1,17 @@
-                                             # Simulador de Probabilidades de Combinacoes de Loteria
+                                             #Simulador de Probabilidades de Combinacoes de Loteria
                      *Esse projeto está sendo criado baseado em probabilidades da engenharia da matemática e lógica.*
 
-                                                            ##1 Simulador basico 
-
-import random
-lista1 = range (1, 60)
-lista2 = range (1, 60)
+                                                            ##1 Simulador basico  ``import randlista1 = range (1, 60)
+```lista2 = range (1, 60)
 lista3 = range (1, 60)
 lista4 = range (1, 60)
 lista5 = range (1, 60)
 lista6 = range (1, 60)
 escolha = random.shuffle(random.choice(lista1, lista2, lista3, lista4, lista5, lista6)
 print('Simulação concluida!')
-print('escolha')
+print('escolha')```
 
-* Em uma combinação de aposta aleatório com 6 números entre 1 a 60, as chances de acertos são de: 
+Em uma combinação de aposta aleatório com 6 números entre 1 a 60, as chances de acertos são de: 
      50.063.860 milhões, 2.154.518 milhões para a quina e 2.332 milhões para a quadra;
 
 * Em uma única dezena que for acrescentada, 7 números 
@@ -50,7 +47,7 @@ print('escolha')
 
  * Estatisticamente os números laterais que são 28 números de 1 ao 10 de 10 ao 60 de 1 ao 51 e de 51 ao 30 são sorteados 2 e os centrais 32 e são sorteados 4, por lógica de proporções
  
-  *01** | **02** | **03** | **04** | **05** | **06** | **07** | **08** | **09** | **10** 
+  **01** | **02** | **03** | **04** | **05** | **06** | **07** | **08** | **09** | **10** 
   ---|---|---|---|---|---|---|---|---|---
   **11** | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | **20**
   **21** | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | **30**
@@ -85,9 +82,9 @@ print('escolha')
  * Nesses fatores a porcentagem é de 33,3% a 40%. A soma do 1º e 2º fatores de probabilidade, 90% estatisticamente e 10% de sorte estatisticamente.
 
      
-                                                      **Se tem Estatistica matemática da para programar!!!**
+                                                 **Se tem Estatistica matemática da para programar!!!**
 
-                                                                     # Sintase do Algoritimo:
+                                                                  # Sintase do Algoritimo:
 
 - [] Criar um programa onde o usuario escolhe quantos números que ele quer solicitar para a aposta, que de a ele a possibilidade de selecionar quantos pares e quantos impares, que de possibilidade de  selecionar a quantidade de apostas nos laterais e nos centrais, que divida os 60 números em quatro e de a possibilidade de escolher entre eles e a quantidade de apostas nos lados direito e esquerdo e no superior e inferior que não escolha mais que 2 números sequênciais, que não repita números, que ele tenha a possibilidade de selecionar quantidade de números em cada quadrante, que ele possa seleconar os numeros mais sorteados e os menos sorteados para acrescentar ou eliminar de sua combinação e não repetir mais que 3 finais iguais nas dezenas
 
