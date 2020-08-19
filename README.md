@@ -1,4 +1,4 @@
-                                               # Simulador-de-probabilidades-de-combinacoes-de-loteria
+                                                Simulador-de-probabilidades-de-combinacoes-de-loteria
 
                            Esse projeto está sendo criado baseado em probabilidades da engenharia da matemática e lógica
 
@@ -17,7 +17,7 @@ Em uma combinação de aposta aleatório com 6 números entre 1 a 60, as chances
    12 | 54.182 | 1.317 | 90 
   
 
---Precisa contar 100% com a sorte, porem estatísticamente a sorte pode ser manipulada aumentando essa probabilidade por meio da Engenharia da matemática, estudos de probabilidades e lógicas provaveis.--
+Precisa contar 100% com a sorte, porem estatísticamente a sorte pode ser manipulada aumentando essa probabilidade por meio da Engenharia da matemática, estudos de probabilidades e lógicas provaveis.
 
 
 1º Fator Matemático lógico: Lógica; A probabilidade diz que entre 5 e 7 sorteios seguenciais a um acumulo de sorteios, Se um apostador gasta 10 reais a cada aposta, em 7 apostas ele tem 70 reais, em 10 apostadores 700 reais, em 20 apostadores 1.400 reais, quanto mais apostadores mais dinheiro,aumentando a quantidade de números na aposta, No sistema cooperativo de apostas (Bolão) as chances de acerto passa para 33,3% a 50%. 
