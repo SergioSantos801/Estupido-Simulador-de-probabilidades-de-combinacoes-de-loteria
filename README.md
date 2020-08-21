@@ -26,7 +26,7 @@ Precisa contar 100% com a sorte, porem estatísticamente a sorte pode ser manipu
 
  * Para um apostador aumentar sua probabilidade ele nunca deve colocar 3 números sequenciais, nunca colocar finais iguais (exemplo 07- 17- 47) o estudo da probabilidade de isso acontecer é de 1%.
 
- * Estatisticamente os números laterais que são 28 números de 1 ao 10 de 10 ao 60 de 1 ao 51 e de 51 ao 30 são sorteados 2 e os centrais 32 e são sorteados 4, por lógica de proporções
+ * Estatisticamente os números laterais que são 28 números de 1 ao 10 de 10 ao 60 de 1 ao 51 e de 51 ao 60 são sorteados 2 e os centrais 32 e são sorteados 4, por lógica de proporções
  
  01 |02| 03 | 04| 05| 06| 07|08 |09 | 10
  ---|---|---|---|---|---|---|---|---|---
