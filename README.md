@@ -28,5 +28,10 @@ Precisa contar 100% com a sorte, porem estatísticamente a sorte pode ser manipu
 
  * Estatisticamente os números laterais que são 28 números de 1 ao 10 de 10 ao 60 de 1 ao 51 e de 51 ao 30 são sorteados 2 e os centrais 32 e são sorteados 4, por lógica de proporções
  
-
-
+ 01 |02| 03 | 04| 05| 06| 07|08 |09 | 10
+ ---|---|---|---|---|---|---|---|---|---
+ 11 | 12| 13| 14| 15| 16| 17| 18|19 | 20
+ 21 | 22| 23| 24| 25| 26| 27| 28|29 | 30
+ 31 | 32| 33| 34| 35| 36| 37| 38|39 | 40
+41 | 42| 43| 44 | 45| 46| 47| 48|49 | 50  
+51 | 52| 53| 54 | 55| 56| 57| 58|59 | 60
