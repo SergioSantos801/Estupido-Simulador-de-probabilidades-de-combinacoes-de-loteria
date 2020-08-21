@@ -50,4 +50,4 @@ Precisa contar 100% com a sorte, porem estatísticamente a sorte pode ser manipu
 ---|---
 2º quadrante | 24,8%
 3º quadrante | 25,8%
-4º quadrante | 24,6
+4º quadrante | 24,6%
