@@ -51,3 +51,21 @@ Precisa contar 100% com a sorte, porem estatísticamente a sorte pode ser manipu
 2º quadrante | 24,8%
 3º quadrante | 25,8%
 4º quadrante | 24,6%
+
+* Com um percentual muito semelhante, uma aposta com 6 números tem probabiliadade de 1 número em cada quadrante sendo os outros 2 aleatório entre os quadrantes, em uma aposta de 8 números 2 em cada quadrante sendo 4 pares e 4 impares a probabilidade de acerto seria maior em teoria. Quanto mais números nessas estatisticas mais probabilidade de acerto.
+
+* Estatística 2012
+ Em analise de números mais sorteados.Combinações com eles, seriam 18 acertos no sorteio principal e 23 quinas, Com os 30 menos sorteados nenhuma acerto e uma quina, Eliminando os 30 números menos sorteados e apostar entre os 30 mais sorteados maior probabilidade.
+
+ * Aposta com 8 números, 2 cada quadrante, pares e impares. filtrando probabilidades maior probabilidade de acertos, quanto mais números maior probabilidade
+
+ * Nesses fatores a porcentagem é de 33,3% a 40%. A soma do 1º e 2º fatores de probabilidade, 90% estatisticamente e 10% de sorte estatisticamente.
+
+     
+                                                Se tem Estatistica matemática da para programar!!!
+
+                                                           Sintase do Algoritimo:
+
+- [] Criar um programa onde o usuario escolhe quantos números que ele quer solicitar para a aposta, que de a ele a possibilidade de selecionar quantos pares e quantos impares, que de possibilidade de  selecionar a quantidade de apostas nos laterais e nos centrais, que divida os 60 números em quatro e de a possibilidade de escolher entre eles e a quantidade de apostas nos lados direito e esquerdo e no superior e inferior que não escolha mais que 2 números sequênciais, que não repita números, que ele tenha a possibilidade de selecionar quantidade de números em cada quadrante, que ele possa seleconar os numeros mais sorteados e os menos sorteados para acrescentar ou eliminar de sua combinação e não repetir mais que 3 finais iguais nas dezenas
+
+(Continua...)
