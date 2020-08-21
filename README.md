@@ -35,3 +35,19 @@ Precisa contar 100% com a sorte, porem estatísticamente a sorte pode ser manipu
  31 | 32| 33| 34| 35| 36| 37| 38|39 | 40
 41 | 42| 43| 44 | 45| 46| 47| 48|49 | 50  
 51 | 52| 53| 54 | 55| 56| 57| 58|59 | 60
+
+* Uma aposta em todos os números pares ou em todos os impares não tem lógica, a probabilidade de isso acontecer é de 1% segundo a matemática, em estudo da probabilidade de 1.453 apostas da mega-sena em teste x 6 = 8.718 números sorteados, 4.343 Números pares probabilidade de (49,8%) e 4.375 impares probabilidade de (50,2%) .
+
+* No cartão de apostas dividindo as seguências em parte superior e inferior, a probabilidade é a mesma. Parte superior 01 ao 30 probabilidade em 4.322 números (49,5%) de probabilidade. Parte inferior 4.396 números probabilidade de (50,5 %).
+
+* Dividindo em lado direito e esquerdo, mesmo percentual, lado direito 4,298 (49,3%) lado esquerdo 4.420 (50,7%) de probabilidade.
+
+* Em todos esses critérios da probabilidade os percentuais são muito parecidos e obedecendo esse critério aumenta a probabilidade de acerto.
+
+* Dividinso o cartão de apostas em 4 partes iguais quadrantes de 1 – 05 ao 21 - 25/  e 06 -10 ao 26 - 30/ e 36 – 40 ao 56 -60/ e 31- 35 ao 51 - 55  quadrante sentido horário dos 8.718 números sorteados, probabilidade de :
+
+1º quadrante | 24,8%
+---|---
+2º quadrante | 24,8%
+3º quadrante | 25,8%
+4º quadrante | 24,6
